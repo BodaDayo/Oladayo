@@ -8,6 +8,17 @@ I’m Oladayo Babalola - @cooncudee
 - 💞️ I’m open to collaborate on Android Development
 - 🌱 Always eager to learn and try out new technologies
 
+### Projects 💼
+
+- Here are some of the projects I've worked on:
+
+- [Todo App](https://github.com/cooncudee/TODO_Mobile): 
+  An app designed to help users stay organized and manage their tasks efficiently. For students, professionals, and generally users looking to keep track of their daily task.
+- [Alte Chat App](https://github.com/cooncudee/Alte): Brief description of the project.
+  A feature-rich Android messaging app designed to keep users connected with thier friends through text voice and video chats.
+- [Breakfast Order App](https://github.com/cooncudee/Breakfast_App):
+  A client-side app where users can select a combination of breakfast options, enter delivery location and phone number to place an order.
+
 ### How to reach me 📫
 
 - 📧 You can reach out to me via email: oladayobb@gmail.com
