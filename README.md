@@ -1,10 +1,10 @@
 ## Hi there! 👋
 
-I’m Oladayo Babalola - @cooncudee
+I’m [Oladayo Babalola](https://github.com/cooncudee)
 
 ### About Me ℹ️
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently proficient in kotlin and developing proficiency in Jetpack Compose 💻
+- 👨‍💻 I'm interested in Software Development
+- 🚀 I'm currently proficient in kotlin and developing proficiency in Jetpack Compose 💻
 - 💞️ I’m open to collaborate on Android Development
 - 🌱 Always eager to learn and try out new technologies
 
@@ -14,10 +14,12 @@ I’m Oladayo Babalola - @cooncudee
 
 - [Todo App](https://github.com/cooncudee/TODO_Mobile): 
   An app designed to help users stay organized and manage their tasks efficiently. For students, professionals, and generally users looking to keep track of their daily task.
-- [Alte Chat App](https://github.com/cooncudee/Alte): Brief description of the project.
-  A feature-rich Android messaging app designed to keep users connected with thier friends through text voice and video chats.
+- [Alte Chat App](https://github.com/cooncudee/Alte):
+  A feature-rich Android messaging app designed to keep users connected with their friends through text voice and video chats.
 - [Breakfast Order App](https://github.com/cooncudee/Breakfast_App):
   A client-side app where users can select a combination of breakfast options, enter delivery location and phone number to place an order.
+- [CXR Slides App](https://github.com/cooncudee/):
+  A simple study app for students that helps users familiarize themselves with chest X-ray slides in preparation for exams.
 
 ### How to reach me 📫
 
