@@ -18,7 +18,7 @@ I’m [Oladayo Babalola](https://github.com/cooncudee)
   A feature-rich Android messaging app designed to keep users connected with their friends through text voice and video chats.
 - [Breakfast Order App](https://github.com/cooncudee/Breakfast_App):
   A client-side app where users can select a combination of breakfast options, enter delivery location and phone number to place an order.
-- [CXR Slides App](https://github.com/cooncudee/):
+- [CXR Slides App](https://github.com/cooncudee/CXR_Slides):
   A simple study app for students that helps users familiarize themselves with chest X-ray slides in preparation for exams.
 
 ### How to reach me 📫
