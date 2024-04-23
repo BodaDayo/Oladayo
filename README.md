@@ -13,7 +13,7 @@ I’m [Oladayo Babalola](https://github.com/cooncudee)
 - Here are some of the projects I've worked on:
 
 - [Todo App](https://github.com/cooncudee/TODO_Mobile): 
-  An app designed to help users stay organized and manage their tasks efficiently. For students, professionals, and generally users looking to keep track of their daily task.
+  An app designed to help users stay organized and manage their tasks efficiently. For students, professionals, and generally users looking to keep track of their daily tasks.
 - [Alte Chat App](https://github.com/cooncudee/Alte):
   A feature-rich Android messaging app designed to keep users connected with their friends through text voice and video chats.
 - [Breakfast Order App](https://github.com/cooncudee/Breakfast_App):
