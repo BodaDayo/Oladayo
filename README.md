@@ -12,13 +12,13 @@ I’m [Oladayo Babalola](https://github.com/BodaDayo)
 
 - Here are some of the projects I've worked on:
 
-- [Todo App](https://github.com/cooncudee/TODO_Mobile): 
+- [Todo App](https://github.com/BodaDayo/TODO_Mobile): 
   An app designed to help users stay organized and manage their tasks efficiently. For students, professionals, and generally users looking to keep track of their daily tasks.
-- [Alte Chat App](https://github.com/cooncudee/Alte):
+- [Alte Chat App](https://github.com/BodaDayo/Alte):
   A feature-rich Android messaging app designed to keep users connected with their friends through text voice and video chats.
-- [Breakfast Order App](https://github.com/cooncudee/Breakfast_App):
+- [Breakfast Order App](https://github.com/BodaDayo/Breakfast_App):
   A client-side app where users can select a combination of breakfast options, enter delivery location and phone number to place an order.
-- [CXR Slides App](https://github.com/cooncudee/CXRSlides):
+- [CXR Slides App](https://github.com/BodaDayo/CXRSlides):
   A simple study app for students that helps users familiarize themselves with chest X-ray slides in preparation for exams.
 
 ### How to reach me 📫
